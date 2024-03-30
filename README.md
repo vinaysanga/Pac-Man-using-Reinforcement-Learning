@@ -2,6 +2,10 @@
 
 This repository contains a complete implementation of a Deep Convolutional Q-Learning (DCQN) agent designed to play the Pac-Man game. Using deep learning and reinforcement learning techniques, the agent learns optimal strategies for navigating the game environment, avoiding ghosts, and maximizing the score.
 
+<a target="_blank" href="https://colab.research.google.com/github/vinaysanga/Pac-Man-using-Reinforcement-Learning/blob/master/PacMan.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ## Getting Started
 
 ### Prerequisites
