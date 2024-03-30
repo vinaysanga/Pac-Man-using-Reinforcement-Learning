@@ -27,15 +27,6 @@ This repository contains a complete implementation of a Deep Convolutional Q-Lea
 
 - If you are using the jupyter notebook, running the first cell will install the dependencies for you.
 
-## Structure
-
-The project is structured as follows:
-
-- `Deep_Convolutional_Q_Learning_for_Pac_Man_Complete_Code.ipynb`: The main Jupyter notebook containing the code to build, train, and evaluate the DCQN model.
-- `Network`: Defines the neural network architecture used by the DCQN agent.
-- `Agent`: Implements the logic for the agent that interacts with and learns from the environment.
-- `Preprocessing`: Includes functions for preprocessing the game frames before they are fed into the model.
-
 ## Running the Project
 To start working with the project, open the `Deep_Convolutional_Q_Learning_for_Pac_Man_Complete_Code.ipynb` notebook in Jupyter:
 
