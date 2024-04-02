@@ -6,6 +6,10 @@ This repository contains a complete implementation of a Deep Convolutional Q-Lea
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+## Demo Video
+https://github.com/vinaysanga/Pac-Man-using-Reinforcement-Learning/assets/43682857/b1609c0e-eac5-4209-97c1-8ec778ebab98
+
+
 ## Getting Started
 
 ### Prerequisites
